@@ -1,0 +1,50 @@
+go_product: "Go to all products"
+home_title_top: "Hey!"
+home_title_bottom: "Let’s get your order"
+cat_all: "all"
+cat_pizz: "pizza"
+cat_drinks: "drinks"
+view: "View"
+popular: "Popular"
+menu:
+  home: "Home"
+  products: "Products"
+  cart: "Cart"
+  signin: "Sign In"
+  profile: "Profile"
+user:
+  acc_not_title: "Don't have an account yet?"
+  acc_not_sub: "Start it up quickly!"
+login:
+  sign_in: "Sign In"
+  sign_out: "Sign Out"
+price_label: "Price"
+not_found: "Not found products"
+title:
+  gallery: "How delicious it looks"
+  cart_empty: "Your shopping cart is empty! This needs to be fixed urgently."
+  order: "Date order:"
+button:
+  go_product: "Go to products"
+profile:
+  title_tab_one: "Welcome to the profile!"
+  title_tab_two: "Your order history"
+  label_tab_setting: "Settings"
+  label_tab_history: "History"
+  avatar: "Upload new avatar"
+  title: "Information about you"
+label:
+  uploading: "Uploading"
+  name: "Name"
+  phone: "Phone"
+  email: "Email"
+  address: "Address"
+  date: "Date"
+  comments: "You comments"
+tooltip: 
+  update: 'Update field'
+errors:
+  email: "Invalid email"
+  req: "Please enter some text"
+  phone: "Invalid phone"
+  maxLen: "Message max len"
